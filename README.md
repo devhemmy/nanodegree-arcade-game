@@ -11,7 +11,7 @@ wanna play the game again!
 
 you can install the game by cloning the reparatory from this link
 
-https://github.com/koi20555/fend-project-memory-game
+https://github.com/koi20555/nanodegree-arcade-game
 
 ##How the Game Work
 
