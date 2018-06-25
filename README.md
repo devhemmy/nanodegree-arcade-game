@@ -1,6 +1,22 @@
-frontend-nanodegree-arcade-game
-===============================
+# Memory Game Project
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+## Table of Contents
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+this is the classic arcade game talking about a knight who went on a journey to recuse the kidnapped princess
+facing enemies on his way who are very dangerous and so he should avoid touching them so can reach the princess
+once he reaches the princess he will take her back to her castle and a congratz massage appears and asks you if you
+wanna play the game again!
+
+## installation
+
+you can install the game by cloning the reparatory from this link
+
+https://github.com/koi20555/fend-project-memory-game
+
+##How the Game Work
+
+once the game load all u have to do is to use your keyboard buttons up down right and left to make the knight move
+and go all the way up to the princess once you touches the princess the game is won! good luck in rescuing the princess
+
+##Errors and mistakes
+try not to use your keyboard buttons after winning the game

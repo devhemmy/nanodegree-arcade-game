@@ -1,3 +1,41 @@
 body {
     text-align: center;
 }
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.main {
+  display: none;
+  position: fixed;
+  width: 600px;
+  background: linear-gradient(160deg, #5cfff1 0%, #316ce6 100%);
+  padding: 32px;
+  border-radius: 10px;
+  box-shadow: 12px 15px 20px 0 rgba(46, 61, 73, 0.5);
+  margin: 0 0 3em;
+  bottom: 30%;
+}
+
+.main li {
+  list-style: none;
+  text-align: center;
+  color: gold;
+  font-size: 21px;
+  font-weight: bold;
+  display: block;
+  margin: 3%;
+}
+button {
+  background: linear-gradient(160deg, #1fffeb 0%, #fdffd4 100%);
+  border-radius: 10px;
+  padding: 10px;
+  margin-left: 3%;
+  font-family: initial;
+  box-shadow: 12px 15px 20px 0 rgba(46, 61, 73, 0.5);
+  cursor: pointer;
+  text-align: center;
+  width: 30%;
+}
