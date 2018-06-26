@@ -1,4 +1,5 @@
-# Memory Game Project
+# The Arcade Game Project
+
 
 ## Table of Contents
 

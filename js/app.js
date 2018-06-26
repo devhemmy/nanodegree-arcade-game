@@ -50,9 +50,6 @@ var player = function(){
 };
 
 //the update method kinda doing nothing the rest handles most of the job
-player.prototype.update = function(dt){
-
-}
 
 //the render method to draw the player
 player.prototype.render = function(){
